@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90d9c702-eca7-4c3e-baa3-4c57429fe1c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/exer/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1$Yolk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +16,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/atguigu/java8/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="46" column="5" selection-start-line="44" selection-start-column="24" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="387">
+              <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
               <folding>
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
                 <element signature="e#677#678#0" expanded="true" />
               </folding>
@@ -193,7 +192,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566893981419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566894923576" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -330,7 +329,7 @@
       <workItem from="1566465064324" duration="1680000" />
       <workItem from="1566526828938" duration="10226000" />
       <workItem from="1566872114415" duration="4724000" />
-      <workItem from="1566887971696" duration="3483000" />
+      <workItem from="1566887971696" duration="5101000" />
     </task>
     <servers />
   </component>
@@ -367,7 +366,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45521000" />
+    <option name="totallyTimeSpent" value="47139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -388,11 +387,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.3286334" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -693,9 +692,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/java8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="46" column="5" selection-start-line="44" selection-start-column="24" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="387">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
           <folding>
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="e#677#678#0" expanded="true" />
           </folding>
