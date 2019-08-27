@@ -2,46 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d9c702-eca7-4c3e-baa3-4c57429fe1c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/META-INF/java8-day01.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/exer/MyFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/exer/MyFunction2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/exer/TestLambda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/FilterEmployeeForAge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/FilterEmployeeForSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/MyFun$aa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/MyFun.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/MyPredicate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/Test2$Yolk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestLambda3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestMethodRef.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/TestStreamaAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1$Yolk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java8-day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/MyFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/MyFunction2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/exer/TestLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/FilterEmployeeForAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/FilterEmployeeForSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/MyFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/MyPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/TestLambda1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/TestLambda2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/TestLambda3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/TestMethodRef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/TestStreamaAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/java8/ceshi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/exer/TestLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1$Yolk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/atguigu/java8/ceshi1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/atguigu/java8/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="477">
+              <caret line="46" column="5" selection-start-line="44" selection-start-column="24" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="e#660#661#0" expanded="true" />
                 <element signature="e#677#678#0" expanded="true" />
@@ -122,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/com/atguigu/java8/TestLambda3.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/exer/TestLambda.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/java8/ceshi1.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/java8/Employee.java" />
       </list>
     </option>
   </component>
@@ -187,6 +154,32 @@
               <item name="java8-day01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="java8-day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
+            <path>
+              <item name="java8-day01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java8-day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java8-day01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java8-day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java8-day01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java8-day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="atguigu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="java8-day01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java8-day01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="atguigu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java8" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,7 +193,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566893189830" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566893981419" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -337,7 +330,7 @@
       <workItem from="1566465064324" duration="1680000" />
       <workItem from="1566526828938" duration="10226000" />
       <workItem from="1566872114415" duration="4724000" />
-      <workItem from="1566887971696" duration="2751000" />
+      <workItem from="1566887971696" duration="3483000" />
     </task>
     <servers />
   </component>
@@ -374,12 +367,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44789000" />
+    <option name="totallyTimeSpent" value="45521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -398,7 +392,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3286334" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -699,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/java8/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="477">
+          <caret line="46" column="5" selection-start-line="44" selection-start-column="24" selection-end-line="46" selection-end-column="5" />
           <folding>
             <element signature="e#660#661#0" expanded="true" />
             <element signature="e#677#678#0" expanded="true" />
