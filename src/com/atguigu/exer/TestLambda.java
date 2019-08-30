@@ -6,9 +6,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.function.Consumer;
 
-import org.junit.Test;
 
 import com.atguigu.java8.Employee;
+import org.junit.jupiter.api.Test;
 
 public class TestLambda {
 

@@ -4,7 +4,7 @@ import java.io.PrintStream;
 import java.util.Comparator;
 import java.util.function.*;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 /*
  * 一、方法引用：若 Lambda 体中的功能，已经有方法提供了实现，可以使用方法引用
