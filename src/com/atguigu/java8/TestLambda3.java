@@ -4,11 +4,9 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.Predicate;
-import java.util.function.Supplier;
+import java.util.function.*;
 
 /*
  * Java8 内置的四大核心函数式接口
@@ -43,6 +41,20 @@ public class TestLambda3 {
         for (String str : strList) {
             System.out.println(str);
         }
+    }
+
+    @Test
+    public void test12() {
+        Comparator<Integer> com = (x, y) -> Integer.compare(x - 1, y);
+        System.out.println(com.compare(10, 9));
+        Comparator<Integer> com1 = Integer::compare;
+        System.out.println(com1.compare(10, 9));
+        System.out.println(Integer.compare(10, 9));
+    }
+
+    @Test
+    public void test13() {
+        BiPredicate<String, String> bp = (x, y) -> x.equals(y);
     }
 
     //需求：将满足条件的字符串，放入集合中
